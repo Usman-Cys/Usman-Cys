@@ -211,24 +211,6 @@ flowchart LR
 * ☁️ **Cloud Security Posture Management (CSPM)** & AWS / S3 container policy auditing.
 * 🔬 Low-level **Binary Exploitation & Memory Safety** fundamentals in C and Rust.
 
----
-
-### 📊 GitHub Activity & Metrics
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Usman-Cys&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8" alt="Usman's GitHub Stats" />
-      </td>
-      <td>
-        <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usman-Cys&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-  <br />
-  <img src="https://streak-stats.demolab.com?user=Usman-Cys&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
-</div>
 
 ---
 
